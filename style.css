@@ -21,7 +21,7 @@ background-repeat: no-repeat;
 
 }
 
-.intro-text{
+.intro-text-1{
     text-decoration: line-through;
     grid-column:2/3 ;
     grid-row: 3/4;
